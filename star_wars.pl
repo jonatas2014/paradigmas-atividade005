@@ -30,6 +30,8 @@ jedi(dookan).
 matou(darth_vader, darth_sidious).
 matou(darth_sidious, darth_vader).
 matou(darth_vader,obi-wan).
+matou(anakin, darth_tyranus).
+
 
 combate(yoda, darth_sidious).
 combate(luke, darth_vader).
